@@ -1,0 +1,1 @@
+enum UserActivityStatus { inMenu, playing }

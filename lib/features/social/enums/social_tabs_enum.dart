@@ -1,0 +1,1 @@
+enum SocialTabs { friends, global }
